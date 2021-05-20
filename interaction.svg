@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  x="0px"
+  y="0px"
+  viewBox="4 4 24 24"
+  enable-background="new 0 0 32 32"
+  xml:space="preserve"
+>
+  <g>
+    <g>
+      <polygon points="16.999,14.626 16,11.555 15.001,14.626 11.771,14.626 14.385,16.525 13.386,19.598 16,17.698 18.614,19.598     17.615,16.525 20.229,14.626   " />
+      <path d="M27.559,16l-1.25-2.5h-2.186c-1.07-3.471-4.307-6-8.124-6s-7.053,2.529-8.124,6H5.691L4.441,16l1.25,2.5h2.186    c1.07,3.471,4.307,6,8.124,6s7.053-2.529,8.124-6h2.186L27.559,16z M6.309,17.5L5.559,16l0.75-1.5h1.332    C7.553,14.988,7.5,15.487,7.5,16s0.053,1.012,0.141,1.5H6.309z M16,23.5c-4.136,0-7.5-3.364-7.5-7.5s3.364-7.5,7.5-7.5    s7.5,3.364,7.5,7.5S20.136,23.5,16,23.5z M24.359,17.5c0.087-0.488,0.141-0.987,0.141-1.5s-0.053-1.012-0.141-1.5h1.332l0.75,1.5    l-0.75,1.5H24.359z" />
+    </g>
+  </g>
+  <text
+    x="0"
+    y="47"
+    fill="#000000"
+    font-size="5px"
+    font-weight="bold"
+    font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+  >
+    Created by Ralf Schmitzer
+  </text>
+  <text
+    x="0"
+    y="52"
+    fill="#000000"
+    font-size="5px"
+    font-weight="bold"
+    font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+  >
+    from the Noun Project
+  </text>
+</svg>
